@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ## Change these as required
-GITHUB_VER=17.2.0
+GITHUB_VER=17.18.0
 CLIENT_VER=7.0.2
 
 ## Below will hopefully rarely need changing
